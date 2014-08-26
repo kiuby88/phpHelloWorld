@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Prueba de PHP</title>
+  <title>Pruebsa de PHP</title>
  </head>
  <body>
  <?php echo '<p>Hola Mundo</p>'; ?>
